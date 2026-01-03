@@ -1,17 +1,17 @@
 {
-  "name": "spokane-food-sovereignty.github.io",
+  "name": "spokane-food-justice.github.io",
   "version": "1.0.0",
-  "description": "The website for Spokane Food Sovereignty",
+  "description": "The website for Spokane Food Justice",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "keywords": [
     "non-profit",
-    "food-sovereignty",
+    "food-justice",
     "spokane"
   ],
-  "author": "Spokane Food Sovereignty",
+  "author": "Spokane Food Justice",
   "license": "ISC",
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.26",

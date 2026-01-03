@@ -1,12 +1,12 @@
-# About Spokane Food Sovereignty
+# About Spokane Food Justice
 
 ## Who We Are
 
-Spokane Food Sovereignty is a non-profit organization committed to creating a more just and sustainable food system in our community. We believe that everyone deserves access to healthy, affordable, and culturally appropriate food.
+Spokane Food Justice is a non-profit organization committed to creating a more just and sustainable food system in our community. We believe that everyone deserves access to healthy, affordable, and culturally appropriate food.
 
 ## Our Mission
 
-To build community power and food sovereignty in Spokane by:
+To build community power and food justice in Spokane by:
 
 - Supporting local food production and distribution
 - Educating the community about sustainable agriculture

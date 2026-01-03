@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'en-US',
-  title: 'Spokane Food Sovereignty',
+  title: 'Spokane Food Justice',
   description: 'Building a sustainable and equitable food system in Spokane',
   
   // GitHub Pages deployment configuration
@@ -38,7 +38,7 @@ export default defineUserConfig({
     },
     
     // Repository information
-    repo: 'spokane-food-sovereignty/spokane-food-sovereignty.github.io',
+    repo: 'spokane-food-justice/spokane-food-justice.github.io',
     docsDir: 'docs',
     docsBranch: 'main',
     editLink: false,

@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: null
-heroText: Spokane Food Sovereignty
+heroText: Spokane Food Justice
 tagline: Building a sustainable and equitable food system in Spokane
 actions:
   - text: Learn More
@@ -17,10 +17,10 @@ features:
     details: Promoting environmentally sustainable and regenerative food production methods.
   - title: Food Justice
     details: Advocating for equitable access to healthy, culturally appropriate food for all.
-footer: Spokane Food Sovereignty | Making a difference in our community
+footer: Spokane Food Justice | Making a difference in our community
 ---
 
-## Welcome to Spokane Food Sovereignty
+## Welcome to Spokane Food Justice
 
 We are a non-profit organization dedicated to building a more sustainable and equitable food system in the Spokane area. Our mission is to empower communities through access to healthy food, education, and support for local food production.
 

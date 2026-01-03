@@ -1,6 +1,6 @@
 # Get Involved
 
-Thank you for your interest in supporting Spokane Food Sovereignty! There are many ways to get involved and make a difference in our community's food system.
+Thank you for your interest in supporting Spokane Food Justice! There are many ways to get involved and make a difference in our community's food system.
 
 ## Ways to Contribute
 
@@ -31,7 +31,7 @@ Stay tuned for upcoming workshops, community gatherings, and educational events.
 
 ### Spread the Word
 
-Follow us on social media and help us raise awareness about food sovereignty issues in Spokane.
+Follow us on social media and help us raise awareness about food justice issues in Spokane.
 
 ## Contact Us
 
