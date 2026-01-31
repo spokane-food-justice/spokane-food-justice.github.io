@@ -30,4 +30,4 @@ A thriving Spokane where everyone has access to nutritious, culturally appropria
 
 ### Get Involved
 
-Join us in our mission to create a better food system. [Learn how you can help](/get-involved).
+Join us in our mission to create a better food system. [Learn how you can help here](/get-involved).
