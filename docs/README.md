@@ -10,6 +10,9 @@ actions:
   - text: Get Involved
     link: /get-involved
     type: secondary
+  - text: Roles
+    link: /roles
+    type: secondary
 features:
   - title: Community Focused
     details: We work directly with community members to understand and address local food access challenges.
