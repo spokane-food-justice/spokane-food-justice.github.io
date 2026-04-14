@@ -16,11 +16,7 @@ Watch for regular emails from us!  As we get this idea off the ground we will be
 
 ## Contact Us
 
-For more information about getting involved, please reach out:
-
-**Email:** [info@spokanefoodjustice.org](mailto:info@spokanefoodjustice.org)
-
-**Location:** Spokane, Washington
+Have questions or ideas? [Reach out to us](/contact).
 
 ---
 
