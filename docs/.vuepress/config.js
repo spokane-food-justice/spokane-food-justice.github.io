@@ -25,6 +25,10 @@ export default defineUserConfig({
         text: 'Get Involved',
         link: '/get-involved',
       },
+      {
+        text: 'Contact Us',
+        link: '/contact',
+      },
     ],
     
     // Sidebar
@@ -32,7 +36,7 @@ export default defineUserConfig({
       '/': [
         {
           text: 'Welcome',
-          children: ['/', '/about', '/get-involved'],
+          children: ['/', '/about', '/get-involved', '/contact'],
         },
       ],
     },
