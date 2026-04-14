@@ -71,7 +71,7 @@
 import { ref } from 'vue'
 
 // Replace PLACEHOLDER with your Formspree form ID (e.g. "xyzabc")
-const formspreeUrl = 'https://formspree.io/f/PLACEHOLDER'
+const formspreeUrl = 'https://formspree.io/f/mpqkwjdl'
 
 const submitting = ref(false)
 const submitted = ref(false)
